@@ -1,3 +1,5 @@
+require_relative "../config/eventironment"
+
 Hashie
 Sinatra
 Octokit
